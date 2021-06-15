@@ -1,0 +1,28 @@
+html {
+  
+  height: 100%;
+}
+
+body {
+  font-family: "Trebuchet MS", Arial, sans-serif;
+  background: linear-gradient(#E4EFE7, #FDFAF6, #FAF1E6);
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+hr {
+  border-color: #5E8B7E40;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-style: dotted none none;
+  border-width: 9px;
+  width: 40px;
+}
+
+a {
+color: black;
+font-style: normal;
+text-decoration: none;
+}
