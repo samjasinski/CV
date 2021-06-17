@@ -1,6 +1,13 @@
 html {
-  
   height: 100%;
+}
+
+h1 {
+  color: #2F5D62;
+}
+
+h3 {
+  color: #2F5D62;
 }
 
 body {
@@ -22,7 +29,5 @@ hr {
 }
 
 a {
-color: black;
-font-style: normal;
-text-decoration: none;
+  text-decoration: none;
 }
